@@ -5,9 +5,13 @@
 This is a batch script that can create a removal .bat file in startup and runs to remove water mark in one click 
 
 1.Download the script
+
 2.Run it
+
 3.Reboot
+
 4.When you see CMD that means Batchscript worked. After startup Windows watermark will be removed!
+
 ##Remember:
 #this is not a virus!
 
