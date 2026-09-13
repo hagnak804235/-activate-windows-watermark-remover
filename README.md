@@ -1,5 +1,5 @@
 ## Windows watermark remover
-![Capture](https://github.com/kingSSG/windows_activation_watermark_remover/assets/66203670/2a73eb26-3f28-418e-95c6-3844e3c0946d)
+![Capture](https://lh6.googleusercontent.com/RaYGyIDGdrAg60Isndb9giGZeMV6cfYxeot4uUwUWhjWc07_pxGJTVg7wsUOA-GpgJSb9l6PsTwUJG1jr-83lh6uGZa_xG7AIetwLKY_E41vojj6iV2en64oJZ235apCSYHOrYUHAIpR9h02PlET0Qc)
 
 # This is a batch script that can create a removal .bat file in startup and runs to remove water mark in one click 
 
