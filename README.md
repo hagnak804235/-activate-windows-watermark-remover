@@ -1,9 +1,9 @@
-## Windows watermark remover
+### Windows watermark remover
 ![Capture](https://lh6.googleusercontent.com/RaYGyIDGdrAg60Isndb9giGZeMV6cfYxeot4uUwUWhjWc07_pxGJTVg7wsUOA-GpgJSb9l6PsTwUJG1jr-83lh6uGZa_xG7AIetwLKY_E41vojj6iV2en64oJZ235apCSYHOrYUHAIpR9h02PlET0Qc)
 
 # This is a batch script that can create a removal .bat file in startup and runs to remove water mark in one click 
 
-1.Download the script
+1.Download the script from releases (Download it to downloads folder)
 
 2.Run it
 
