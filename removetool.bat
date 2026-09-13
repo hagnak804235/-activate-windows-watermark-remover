@@ -2,14 +2,10 @@
 set "startupFolder=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup"
 (
     echo @echo off
-    ::TIMEOUT /T 3 /NOBREAK
     echo taskkill /F /IM explorer.exe
     echo explorer.exe     
     echo exit
-) > "%startupFolder%\removewindowatermark.bat"
-echo color 02
+) > "%startupFolder%\WatermarkRemover.bat"
 echo Restart your PC
-echo NewScript.bat created 
-echo in %startupFolder% with content.
-TIMEOUT /T 5 /NOBREAK
+TIMEOUT /T 3 /NOBREAK
 exit
