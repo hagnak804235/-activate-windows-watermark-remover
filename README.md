@@ -7,7 +7,7 @@
 
 2.Run it
 
-3.Reboot
+3.Script will restart your PC for you
 
 4.When you see CMD that means Batchscript worked. After startup Windows watermark will be removed!
 
