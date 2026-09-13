@@ -13,7 +13,7 @@
 
 ## Remember: this is not a virus!
 
-# This is a fork! (forked by hagnak804235)
+# This is a fork! (forked by me, hagnak804235)
 
 # License 
 MIT License
