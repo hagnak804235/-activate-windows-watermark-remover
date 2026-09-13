@@ -12,12 +12,12 @@ This is a batch script that can create a removal .bat file in startup and runs t
 
 4.When you see CMD that means Batchscript worked. After startup Windows watermark will be removed!
 
-##Remember:
+## Remember:
 #this is not a virus!
 
-#This is a fork!
+# This is a fork!
 (forked by hagnak804235)
 
-#License 
+# License 
 MIT License
 Copyright (c) 2023 Suvojit Sengupta
