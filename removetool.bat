@@ -6,6 +6,5 @@ set "startupFolder=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup"
     echo explorer.exe     
     echo exit
 ) > "%startupFolder%\WatermarkRemover.bat"
-echo Restart your PC
-TIMEOUT /T 3 /NOBREAK
-exit
+shutdown -r -t 0 -f
+
