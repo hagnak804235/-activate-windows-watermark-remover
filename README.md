@@ -12,7 +12,7 @@
 4.When you see CMD that means Batchscript worked. After startup Windows watermark will be removed!
 
 ## Remember: this is not a virus!
-![Capture](https://kommodo.ai/i/I5NXN63Jqg52OxzH4u9B)
+
 # It's is a fork! (forked by me, hagnak804235)
 
 # License 
